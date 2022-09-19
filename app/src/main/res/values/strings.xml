@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+
+    <string name="NamaUser">Username</string>
+    <string name="Name">Name</string>
+    <string name="Follower">Follower</string>
+    <string name="Following">Following</string>
+    <string name="Company">Company</string>
+    <string name="Location">Location</string>
+    <string name="Repository">Repository</string>
+    <string name="desc">Desc</string>
+
+
+    <string-array name="username">
+        <item>JakeWharton</item>
+        <item>amitshekhariitbhu</item>
+        <item>romainguy</item>
+        <item>chrisbanes</item>
+        <item>tipsy</item>
+        <item>ravi8x</item>
+        <item>jasoet</item>
+        <item>budioktaviyan</item>
+        <item>hendisantika</item>
+        <item>sidiqpermana</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Jake Wharton</item>
+        <item>Amit Shekhar</item>
+        <item>Romain Guy</item>
+        <item>Chris Banes</item>
+        <item>David</item>
+        <item>Ravi Tamada</item>
+        <item>Deny Prasetyo</item>
+        <item>Budi Oktaviyan</item>
+        <item>Hendi Santika</item>
+        <item>Sidiq Permana</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Locate: Pittsburgh, PA, USA</item>
+        <item>Locate: New Delhi, India</item>
+        <item>Locate: California</item>
+        <item>Locate: Sydney, Australia</item>
+        <item>Locate: Trondheim, Norway</item>
+        <item>Locate: India</item>
+        <item>Locate: Kotagede, Yogyakarta, Indonesia</item>
+        <item>Locate: Jakarta, Indonesia</item>
+        <item>Locate: Bojongsoang - Bandung Jawa Barat</item>
+        <item>Locate: Jakarta Indonesia</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>Repo: 102</item>
+        <item>Repo: 37</item>
+        <item>Repo: 9</item>
+        <item>Repo: 30</item>
+        <item>Repo: 56</item>
+        <item>Repo: 28</item>
+        <item>Repo: 44</item>
+        <item>Repo: 110</item>
+        <item>Repo: 1064</item>
+        <item>Repo: 65</item>
+    </string-array>
+
+    <string-array name="company">
+        <item>Company : Google, Inc.</item>
+        <item>Company : MindOrksOpenSource</item>
+        <item>Company : Google</item>
+        <item>Company : Google working on @android</item>
+        <item>Company : Working Group Two</item>
+        <item>Company : AndroidHive | Droid5</item>
+        <item>Company : gojek-engineering</item>
+        <item>Company : KotlinID</item>
+        <item>Company : JVMDeveloperID @KotlinID @IDDevOps</item>
+        <item>Company : Nusantara Beta Studio</item>
+    </string-array>
+
+    <string-array name="followers">
+        <item>Followers: 56995</item>
+        <item>Followers: 5153</item>
+        <item>Followers: 7972</item>
+        <item>Followers: 14725</item>
+        <item>Followers: 788</item>
+        <item>Followers: 18628</item>
+        <item>Followers: 277</item>
+        <item>Followers: 178</item>
+        <item>Followers: 428</item>
+        <item>Followers: 465</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>Following: 12</item>
+        <item>Following: 2</item>
+        <item>Following: 0</item>
+        <item>Following: 1</item>
+        <item>Following: 0</item>
+        <item>Following: 3</item>
+        <item>Following: 39</item>
+        <item>Following: 23</item>
+        <item>Following: 61</item>
+        <item>Following: 10</item>
+    </string-array>
+
+    <integer-array name="avatar">
+        <item>@drawable/user1</item>
+        <item>@drawable/user2</item>
+        <item>@drawable/user3</item>
+        <item>@drawable/user4</item>
+        <item>@drawable/user5</item>
+        <item>@drawable/user6</item>
+        <item>@drawable/user7</item>
+        <item>@drawable/user8</item>
+        <item>@drawable/user9</item>
+        <item>@drawable/user10</item>
+    </integer-array>
+
+</resources>
+
+
